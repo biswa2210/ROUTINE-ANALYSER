@@ -1,4 +1,5 @@
 import  json
+# CREATED BY BISWARUP BHATTACHARJEE
 facluties=[]
 from DataSearching import  Searching
 with open('faculties.json', 'r') as json_file:
