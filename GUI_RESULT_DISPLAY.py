@@ -1,5 +1,5 @@
 # Python program to create a table
-
+# CREATED BY BISWARUP BHATTACHARJEE
 from tkinter import *
 headings=("TIME & PERIODS","SUBJECTS & STREAMS","FACULTY NAME","ROOM NO")
 
