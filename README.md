@@ -24,6 +24,10 @@ Routine analyser is a python application for faculties. It is used to search rou
 
 </div>
 
+## ROUTINE ANALYSER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=1">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
